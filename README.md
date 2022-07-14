@@ -1,0 +1,2 @@
+# HolisticWare.DotNetNew.XamarinFormsProjectsStructureTemplate.SDKStyle
+HolisticWare.DotNetNew.XamarinFormsProjectsStructureTemplate.SDKStyle
