@@ -6,7 +6,7 @@ SDK (short) Style template for Xamarin.Forms
 
 ## Clone and try
 
-Paste this into terminal:
+Paste this into terminal to build:
 
 ```bash
 export BRANCH="main"
@@ -25,6 +25,15 @@ cd DotNetNew.XamarinFormsProjectsStructureTemplate.SDKStyle
 cd source 
 dotnet build BuildAllXamarinForms.sln
 ```
+
+Trying Android:
+
+```
+$HOME/Library/Android/sdk/emulator/emulator -avd "Pixel_XL_API_30" &
+dotnet run  --project BuildAllXamarinForms/BuildAllXamarinForms.XamarinAndroid
+```
+
+NOTE: iOS does not build yet
 
 ## Status
 
